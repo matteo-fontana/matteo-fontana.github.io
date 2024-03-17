@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Department of <a href='https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/'>Computer Science</a> - Royal Holloway, University of London. Egham, Surrey, United Kingdom
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 1.14, Bedford Building</p>
+    <p>TW20 0EX</p>
+    <p>Egham, Surrey</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
