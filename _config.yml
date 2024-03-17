@@ -289,9 +289,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 scholar:
   last_name: [Fontana]
   first_name: [Matteo]
-  last_name: [Fontana]
-  first_name: [Matteo]
-
+  
   style: apa
   locale: en
 
