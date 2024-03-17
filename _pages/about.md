@@ -6,11 +6,12 @@ subtitle: Department of <a href='https://www.royalholloway.ac.uk/research-and-te
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_matteo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 1.14, Bedford Building</p>
     <p>TW20 0EX</p>
+    
     <p>Egham, Surrey</p>
     <p>United Kingdom</p>
 
