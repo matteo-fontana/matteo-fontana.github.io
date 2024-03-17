@@ -41,6 +41,7 @@ repo_trophies:
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: false
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,6 +72,7 @@ github_username: matteo-fontana # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: matteo-fontana-9a504a75 # your LinkedIn user name
 linkedin_username: matteo-fontana-9a504a75 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
@@ -287,6 +289,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
+  last_name: [Fontana]
+  first_name: [Matteo]
   last_name: [Fontana]
   first_name: [Matteo]
 
